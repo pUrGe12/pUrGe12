@@ -4,11 +4,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pUrGe12&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=yellow" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue" alt="Python" />
